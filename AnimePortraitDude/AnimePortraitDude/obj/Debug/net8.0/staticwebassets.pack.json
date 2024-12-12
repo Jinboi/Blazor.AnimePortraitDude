@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AnimePortraitDude.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AnimePortraitDude.bqr08mg2ix.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AnimePortraitDude.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AnimePortraitDude.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AnimePortraitDude.props",
+      "PackagePath": "build\\AnimePortraitDude.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AnimePortraitDude.props",
+      "PackagePath": "buildMultiTargeting\\AnimePortraitDude.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AnimePortraitDude.props",
+      "PackagePath": "buildTransitive\\AnimePortraitDude.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

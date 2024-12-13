@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/eeteLEb7fV5ainyowiF4N9YEqY4iFXMnIF8xuzq/ZQ=",
+  "Hash": "QqN0I6ZBV3Qmd9VfukGq6OtqxGUczJCcrCtiJUAMxng=",
   "Source": "AnimePortraitDude",
   "BasePath": "_content/AnimePortraitDude",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "AnimePortraitDude\\wwwroot",
       "Source": "AnimePortraitDude",
-      "ContentRoot": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\",
       "BasePath": "_content/AnimePortraitDude",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AnimePortraitDude.styles.css",
+      "Identity": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AnimePortraitDude.styles.css",
       "SourceId": "AnimePortraitDude",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AnimePortraitDude",
       "RelativePath": "AnimePortraitDude#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "ndMUwUZv36j99dioBoo2xIW6ufL57NhNl7OgkEYl5p0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AnimePortraitDude.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AnimePortraitDude.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AnimePortraitDude.bundle.scp.css",
+      "Identity": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AnimePortraitDude.bundle.scp.css",
       "SourceId": "AnimePortraitDude",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AnimePortraitDude",
       "RelativePath": "AnimePortraitDude#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "ndMUwUZv36j99dioBoo2xIW6ufL57NhNl7OgkEYl5p0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AnimePortraitDude.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AnimePortraitDude.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\app.css",
       "SourceId": "AnimePortraitDude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\",
       "BasePath": "_content/AnimePortraitDude",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "AnimePortraitDude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\",
       "BasePath": "_content/AnimePortraitDude",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -94,17 +94,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bpk8xqwxhs",
-      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "AnimePortraitDude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\",
       "BasePath": "_content/AnimePortraitDude",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\favicon.png",
       "SourceId": "AnimePortraitDude",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\",
       "BasePath": "_content/AnimePortraitDude",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -146,7 +146,7 @@
   "Endpoints": [
     {
       "Route": "AnimePortraitDude.bqr08mg2ix.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AnimePortraitDude.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AnimePortraitDude.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -167,7 +167,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 07:54:05 GMT"
+          "Value": "Fri, 13 Dec 2024 06:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -191,7 +191,7 @@
     },
     {
       "Route": "AnimePortraitDude.bqr08mg2ix.styles.css",
-      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AnimePortraitDude.styles.css",
+      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AnimePortraitDude.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -212,7 +212,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 07:54:05 GMT"
+          "Value": "Fri, 13 Dec 2024 06:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -236,7 +236,7 @@
     },
     {
       "Route": "AnimePortraitDude.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AnimePortraitDude.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AnimePortraitDude.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -257,7 +257,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 07:54:05 GMT"
+          "Value": "Fri, 13 Dec 2024 06:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -273,7 +273,7 @@
     },
     {
       "Route": "AnimePortraitDude.styles.css",
-      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AnimePortraitDude.styles.css",
+      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AnimePortraitDude.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -294,7 +294,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 07:54:05 GMT"
+          "Value": "Fri, 13 Dec 2024 06:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -310,7 +310,7 @@
     },
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -331,7 +331,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 07:50:17 GMT"
+          "Value": "Fri, 13 Dec 2024 06:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -347,7 +347,7 @@
     },
     {
       "Route": "app.da95v2qkru.css",
-      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -368,7 +368,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 07:50:17 GMT"
+          "Value": "Fri, 13 Dec 2024 06:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -391,8 +391,8 @@
       ]
     },
     {
-      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -401,7 +401,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162720"
+          "Value": "162726"
         },
         {
           "Name": "Content-Type",
@@ -409,11 +409,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 07:50:17 GMT"
+          "Value": "Fri, 13 Dec 2024 06:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -423,7 +423,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bpk8xqwxhs"
+          "Value": "6gzpyzhau4"
         },
         {
           "Name": "label",
@@ -431,13 +431,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
         }
       ]
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -446,7 +446,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162720"
+          "Value": "162726"
         },
         {
           "Name": "Content-Type",
@@ -454,11 +454,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 07:50:17 GMT"
+          "Value": "Fri, 13 Dec 2024 06:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -468,13 +468,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
         }
       ]
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -495,7 +495,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 07:50:17 GMT"
+          "Value": "Fri, 13 Dec 2024 06:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -519,7 +519,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -540,7 +540,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 07:50:17 GMT"
+          "Value": "Fri, 13 Dec 2024 06:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -556,7 +556,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -577,7 +577,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 07:50:17 GMT"
+          "Value": "Fri, 13 Dec 2024 06:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -601,7 +601,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 11-again\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -622,7 +622,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 07:50:17 GMT"
+          "Value": "Fri, 13 Dec 2024 06:53:14 GMT"
         },
         {
           "Name": "Cache-Control",

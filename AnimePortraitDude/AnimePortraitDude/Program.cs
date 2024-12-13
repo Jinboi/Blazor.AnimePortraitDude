@@ -2,6 +2,7 @@ using AnimePortraitDude.Components;
 using AnimePortraitDude.Models;
 using AnimePortraitDude.Services;
 using Microsoft.EntityFrameworkCore;
+using Stripe;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +14,9 @@ builder.Services.AddScoped<IClubService, ClubService>();
 
 builder.Services.AddDbContext<ClubDbContext>(c =>
     c.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
+StripeConfiguration.ApiKey = "sk_test_51QUiPNAXmngyOhkFMMpHZCLastk0iBzn3KTpdPOMoW8HGxPGcWyOjtI0V9WNY7DjLM2E1CuEicTFraVdQvKjbZhM00Bo5N923u";
 
 var app = builder.Build();
 

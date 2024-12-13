@@ -1,0 +1,31 @@
+﻿@page "/payment-success"
+@using Stripe
+@using Stripe.Checkout
+
+<h3>Payment Success</h3>
+
+<h2>Hi @_customerName,</h2>
+<p>Thank you for making payment</p>
+
+@code {
+    [SupplyParameterFromQuery(Name = "session-id")]
+    public string CheckoutSessionId { get; set; }
+
+    private string _customerName = string.Empty;
+
+    protected override async Task OnInitializedAsync()
+    {
+        /*   If you want to use multiple Stripe Account/Api Keys
+          *   You can use this IStripeClient approach
+          *       You can get the api key from some config or database as per the need
+          *           and construct the StripeClient object and use it to construct SessionService instance
+              IStripeClient stripeClient = new StripeClient(apiKey: "YOUR_STRIPE_API_KEY");
+              var sessionService = new SessionService(stripeClient);
+          */
+
+        var sessionService = new SessionService();
+        var session = await sessionService.GetAsync(CheckoutSessionId);
+
+        _customerName = session.CustomerDetails.Name;
+    }
+}

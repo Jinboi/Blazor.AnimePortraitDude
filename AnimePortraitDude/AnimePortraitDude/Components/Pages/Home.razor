@@ -1,7 +1,53 @@
 ﻿@page "/"
+@using Stripe
+@using Stripe.Checkout
+@inject NavigationManager NavigationManager
+@inject Services.IClubService ClubService
 
-<PageTitle>Home</PageTitle>
+<PageTitle>Widget Sale!</PageTitle>
 
-<h1>Hello, world!</h1>
+<section class="border p-4 bg-light">
+    <h2>£49</h2>
+    <p>While stocks last!</p>
 
-Welcome to your new app.
+    <form method="post" @formname="checkout-form" @onsubmit="CheckoutAsync">
+        <AntiforgeryToken />
+        <button type="submit" class="btn btn-sm btn-primary">Pay now</button>
+    </form>
+
+</section>
+
+@code {
+    private async Task CheckoutAsync()
+    {
+        var domain = NavigationManager.BaseUri.TrimEnd('/');
+        var clubs = await ClubService.GetClubs();
+
+        var lineItems = clubs.Select(club => new SessionLineItemOptions
+            {
+                Quantity = 1, // Assuming each club represents one "item"
+                PriceData = new SessionLineItemPriceDataOptions
+                {
+                    Currency = "usd", // Update to your preferred currency
+                    UnitAmountDecimal = 4900, // Price in cents (e.g., $49)
+                    ProductData = new SessionLineItemPriceDataProductDataOptions
+                    {
+                        Name = club.ClubName // Use the club name for display
+                    }
+                }
+            }).ToList();
+
+        var options = new SessionCreateOptions
+            {
+                LineItems = lineItems,
+                Mode = "payment",
+                SuccessUrl = $"{domain}/payment-success?session-id={{CHECKOUT_SESSION_ID}}",
+                CancelUrl = domain,
+            };
+
+        var service = new SessionService();
+        Session session = await service.CreateAsync(options);
+
+        NavigationManager.NavigateTo(session.Url);
+    }
+}

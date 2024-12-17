@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('serviceConnectorResourceGroupName')]/providers/Microsoft.Web/sites/AnimePortraitDudeTryThree/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsDefaultConnection1_B07285C36B",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/animeportraitdudedbserver/databases/AnimePortraitDude_db",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:DefaultConnection1",
+      "dynamicId": null
+    }
+  }
+}

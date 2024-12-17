@@ -2,5 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\Youngwoo\Documents\MEGA\WIP\02-WIP\Dec 16\Dec 16 Try Two\Blazor.AnimePortraitDude\AnimePortraitDude\AnimePortraitDude\Properties\PublishProfiles\AnimePortraitDudeTryThree - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

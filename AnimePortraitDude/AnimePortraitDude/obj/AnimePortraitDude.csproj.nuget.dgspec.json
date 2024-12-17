@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude.csproj": {}
+    "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude.csproj": {
+    "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude.csproj",
+        "projectUniqueName": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude.csproj",
         "projectName": "AnimePortraitDude",
-        "projectPath": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude.csproj",
+        "projectPath": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude.csproj",
         "packagesPath": "C:\\Users\\Youngwoo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\",
+        "outputPath": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IZ4AX3D1bVA=",
+  "dgSpecHash": "yS1C18Vo1U0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude.csproj",
+  "projectFilePath": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Youngwoo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Youngwoo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

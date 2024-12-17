@@ -1,66 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\",
+  "WorkspaceRootPath": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 12\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 16\\dec 16 try two\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\migrations\\clubdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\migrations\\clubdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 12\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 12\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\components\\pages\\paymentsuccess.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\components\\pages\\paymentsuccess.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 12\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 12\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\services\\clubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\services\\clubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 12\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 12\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\models\\clubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\models\\clubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 12\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\services\\iclubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\services\\iclubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 12\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\components\\pages\\club.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\components\\pages\\club.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 12\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\components\\pages\\add-club.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\components\\pages\\add-club.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 12\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 16\\dec 16 try two\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 12\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\components\\pages\\update.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\components\\pages\\update.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 12\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 12\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\animeportraitdude.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 16\\dec 16 try two\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\animeportraitdude.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\animeportraitdude.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 12\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\migrations\\20241212075536_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\migrations\\20241212075536_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 16\\dec 16 try two\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 16\\dec 16 try two\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 16\\dec 16 try two\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\services\\clubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\services\\clubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 16\\dec 16 try two\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,200 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "AnimePortraitDude\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "AnimePortraitDude\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T06:58:49.942Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Club.razor",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Components\\Pages\\Club.razor",
-              "RelativeDocumentMoniker": "AnimePortraitDude\\Components\\Pages\\Club.razor",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Components\\Pages\\Club.razor",
-              "RelativeToolTip": "AnimePortraitDude\\Components\\Pages\\Club.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T07:57:26.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClubService.cs",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Services\\ClubService.cs",
-              "RelativeDocumentMoniker": "AnimePortraitDude\\Services\\ClubService.cs",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Services\\ClubService.cs",
-              "RelativeToolTip": "AnimePortraitDude\\Services\\ClubService.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T07:56:37.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IClubService.cs",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Services\\IClubService.cs",
-              "RelativeDocumentMoniker": "AnimePortraitDude\\Services\\IClubService.cs",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Services\\IClubService.cs",
-              "RelativeToolTip": "AnimePortraitDude\\Services\\IClubService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T07:56:20.53Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "AnimePortraitDude.csproj",
+              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude.csproj",
+              "RelativeDocumentMoniker": "AnimePortraitDude\\AnimePortraitDude.csproj",
+              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude.csproj",
+              "RelativeToolTip": "AnimePortraitDude\\AnimePortraitDude.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T00:41:13.299Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Program.cs",
-              "RelativeDocumentMoniker": "AnimePortraitDude\\Program.cs",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Program.cs",
-              "RelativeToolTip": "AnimePortraitDude\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "AnimePortraitDude\\DbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\DbContextFactory.cs",
+              "RelativeToolTip": "AnimePortraitDude\\DbContextFactory.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T07:53:51.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T00:26:40.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\appsettings.json",
-              "RelativeDocumentMoniker": "AnimePortraitDude\\appsettings.json",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\appsettings.json",
-              "RelativeToolTip": "AnimePortraitDude\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-12T07:53:09.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20241212075536_FirstMigration.cs",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Migrations\\20241212075536_FirstMigration.cs",
-              "RelativeDocumentMoniker": "AnimePortraitDude\\Migrations\\20241212075536_FirstMigration.cs",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Migrations\\20241212075536_FirstMigration.cs",
-              "RelativeToolTip": "AnimePortraitDude\\Migrations\\20241212075536_FirstMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T07:55:36.306Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Add-club.razor",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Components\\Pages\\Add-club.razor",
-              "RelativeDocumentMoniker": "AnimePortraitDude\\Components\\Pages\\Add-club.razor",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Components\\Pages\\Add-club.razor",
-              "RelativeToolTip": "AnimePortraitDude\\Components\\Pages\\Add-club.razor",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T07:57:50.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Club.cs",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Models\\Club.cs",
+              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Models\\Club.cs",
               "RelativeDocumentMoniker": "AnimePortraitDude\\Models\\Club.cs",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Models\\Club.cs",
+              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Models\\Club.cs",
               "RelativeToolTip": "AnimePortraitDude\\Models\\Club.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T07:52:10.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T00:26:33.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClubDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Models\\ClubDbContext.cs",
-              "RelativeDocumentMoniker": "AnimePortraitDude\\Models\\ClubDbContext.cs",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Models\\ClubDbContext.cs",
-              "RelativeToolTip": "AnimePortraitDude\\Models\\ClubDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ClubDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Migrations\\ClubDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AnimePortraitDude\\Migrations\\ClubDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Migrations\\ClubDbContextModelSnapshot.cs",
+              "RelativeToolTip": "AnimePortraitDude\\Migrations\\ClubDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T07:52:46.882Z",
+              "WhenOpened": "2024-12-16T00:26:07.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\DbContextFactory.cs",
-              "RelativeDocumentMoniker": "AnimePortraitDude\\DbContextFactory.cs",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\DbContextFactory.cs",
-              "RelativeToolTip": "AnimePortraitDude\\DbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABcAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\appsettings.json",
+              "RelativeDocumentMoniker": "AnimePortraitDude\\appsettings.json",
+              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\appsettings.json",
+              "RelativeToolTip": "AnimePortraitDude\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T00:03:49.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClubService.cs",
+              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Services\\ClubService.cs",
+              "RelativeDocumentMoniker": "AnimePortraitDude\\Services\\ClubService.cs",
+              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Services\\ClubService.cs",
+              "RelativeToolTip": "AnimePortraitDude\\Services\\ClubService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T07:53:30.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T00:26:28.175Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PaymentSuccess.razor",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Components\\Pages\\PaymentSuccess.razor",
-              "RelativeDocumentMoniker": "AnimePortraitDude\\Components\\Pages\\PaymentSuccess.razor",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Components\\Pages\\PaymentSuccess.razor",
-              "RelativeToolTip": "AnimePortraitDude\\Components\\Pages\\PaymentSuccess.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T07:38:39.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AnimePortraitDude.csproj",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude.csproj",
-              "RelativeDocumentMoniker": "AnimePortraitDude\\AnimePortraitDude.csproj",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude.csproj",
-              "RelativeToolTip": "AnimePortraitDude\\AnimePortraitDude.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-12T07:53:22.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Update.razor",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Components\\Pages\\Update.razor",
-              "RelativeDocumentMoniker": "AnimePortraitDude\\Components\\Pages\\Update.razor",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Components\\Pages\\Update.razor",
-              "RelativeToolTip": "AnimePortraitDude\\Components\\Pages\\Update.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T07:58:45.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "AnimePortraitDude\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 12\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "AnimePortraitDude\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T07:59:01.667Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Program.cs",
+              "RelativeDocumentMoniker": "AnimePortraitDude\\Program.cs",
+              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Program.cs",
+              "RelativeToolTip": "AnimePortraitDude\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T00:04:11.147Z"
             }
           ]
         }

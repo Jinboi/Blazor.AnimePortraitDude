@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnimePortraitDude")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c32110cff56cbc915c939a39080253646de55c4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff6de162db11386cbc1aef5ad681d03a239392ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnimePortraitDude")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnimePortraitDude")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

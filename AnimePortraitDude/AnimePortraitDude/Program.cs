@@ -10,9 +10,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
-builder.Services.AddScoped<IClubService, ClubService>();
+builder.Services.AddScoped<IProductService, AnimePortraitDude.Services.ProductService>();
 
-builder.Services.AddDbContext<ClubDbContext>(c =>
+builder.Services.AddDbContext<ProductDbContext>(c =>
     c.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 

@@ -1,0 +1,53 @@
+﻿@page "/add-product"
+@rendermode InteractiveServer
+@using AnimePortraitDude.Models
+@inject AnimePortraitDude.Services.IProductService ProductService
+@inject NavigationManager Navigation
+
+<h3>Add New Product</h3>
+
+<div class="mb-3">
+    <label for="productName" class="form-label">Plub Name</label>
+    <input type="text" class="form-control" id="productName" @bind="newProductName" />
+</div>
+<div class="mb-3">
+    <label for="yearFounded" class="form-label">Year Founded</label>
+    <input type="text" class="form-control" id="yearFounded" @bind="yearFounded" />
+</div>
+<div class="mb-3">
+    <label for="country" class="form-label">Country</label>
+    <input type="text" class="form-control" id="country" @bind="newCountry" />
+</div>
+
+<button class="btn btn-secondary" @onclick="Cancel">Cancel</button>
+<button class="btn btn-primary" @onclick="InsertProduct">Save</button>
+
+@code {
+    private string newProductName;
+    private string yearFounded;
+    private string newCountry;
+
+    private async Task InsertProduct()
+    {
+        // Create a new product object
+        var product = new Models.Product
+            {
+                ProductName = newProductName,
+                YearFounded = yearFounded,
+                Country = newCountry
+            };
+
+        // Insert the product into the database
+        await ProductService.AddProduct(product);
+
+        // Close the modal and navigate back to the product page
+        Navigation.NavigateTo("/product");
+        StateHasChanged();
+    }
+
+    private void Cancel()
+    {
+        // Close the modal and navigate back to the product page
+        Navigation.NavigateTo("/product");
+    }
+}

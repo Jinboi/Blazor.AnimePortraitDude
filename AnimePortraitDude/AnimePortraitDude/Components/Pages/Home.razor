@@ -2,7 +2,7 @@
 @using Stripe
 @using Stripe.Checkout
 @inject NavigationManager NavigationManager
-@inject Services.IClubService ClubService
+@inject Services.IProductService ProductService
 
 <PageTitle>Widget Sale!</PageTitle>
 
@@ -21,18 +21,18 @@
     private async Task CheckoutAsync()
     {
         var domain = NavigationManager.BaseUri.TrimEnd('/');
-        var clubs = await ClubService.GetClubs();
+        var products = await ProductService.GetProducts();
 
-        var lineItems = clubs.Select(club => new SessionLineItemOptions
+        var lineItems = products.Select(product => new SessionLineItemOptions
             {
-                Quantity = 1, // Assuming each club represents one "item"
+                Quantity = 1, // Assuming each product represents one "item"
                 PriceData = new SessionLineItemPriceDataOptions
                 {
                     Currency = "usd", // Update to your preferred currency
                     UnitAmountDecimal = 4900, // Price in cents (e.g., $49)
                     ProductData = new SessionLineItemPriceDataProductDataOptions
                     {
-                        Name = club.ClubName // Use the club name for display
+                        Name = product.ProductName // Use the product name for display
                     }
                 }
             }).ToList();

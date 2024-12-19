@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace AnimePortraitDude.Migrations
 {
-    [DbContext(typeof(ClubDbContext))]
+    [DbContext(typeof(ProductDbContext))]
     [Migration("20241217040255_InitialCreate")]
     partial class InitialCreate
     {
@@ -24,7 +24,7 @@ namespace AnimePortraitDude.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("AnimePortraitDude.Models.Club", b =>
+            modelBuilder.Entity("AnimePortraitDude.Models.Product", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -32,7 +32,7 @@ namespace AnimePortraitDude.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("ClubName")
+                    b.Property<string>("ProductName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -46,7 +46,7 @@ namespace AnimePortraitDude.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Clubs");
+                    b.ToTable("Products");
                 });
 #pragma warning restore 612, 618
         }

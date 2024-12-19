@@ -1,0 +1,72 @@
+﻿@page "/product"
+@rendermode InteractiveServer
+@inject NavigationManager Navigation
+@inject AnimePortraitDude.Services.IProductService ProductService
+
+<h3>Product Table</h3>
+
+@if (products == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Product Name</th>
+                <th>Year Founded</th>
+                <th>Country</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in products)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.ProductName</td>
+                    <td>@product.YearFounded</td>
+                    <td>@product.Country</td>
+                    <td>
+                        <button class="btn btn-warning btn-sm" @onclick="() => NavigateToUpdate(product.Id)">Update</button>
+                        <button class="btn btn-danger btn-sm" @onclick="() => DeleteProduct(product.Id)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}
+
+<button class="btn btn-primary" @onclick="OpenAddProductModal">Add New Product</button>
+
+@code {
+    private List<Models.Product> products;
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Load the product when the component is initialized
+        products = await ProductService.GetProducts();
+
+    }
+
+    private void OpenAddProductModal()
+    {
+        Navigation.NavigateTo("/add-product");
+    }
+
+    private void NavigateToUpdate(int productId)
+    {
+        Navigation.NavigateTo($"/update/{productId}");
+    }
+
+    private async Task DeleteProduct(int productId)
+    {
+
+        await ProductService.DeleteProduct(productId);
+
+        products = await ProductService.GetProducts();
+    }
+}

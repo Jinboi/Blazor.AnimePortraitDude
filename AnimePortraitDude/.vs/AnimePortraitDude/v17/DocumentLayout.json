@@ -1,12 +1,79 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 16\\Dec 16 Try Two\\Blazor.AnimePortraitDude\\AnimePortraitDude\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\duddn\\Documents\\GIT\\Dec 18\\Blazor.AnimePortraitDude\\AnimePortraitDude\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\duddn\\documents\\git\\dec 18\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\duddn\\documents\\git\\dec 18\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|c:\\users\\duddn\\documents\\git\\dec 18\\blazor.animeportraitdude\\animeportraitdude\\animeportraitdude\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA99DCB1-2C4E-4037-9C65-359E36E17825}|AnimePortraitDude\\AnimePortraitDude.csproj|solutionrelative:animeportraitdude\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Dec 18\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Models\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "AnimePortraitDude\\Models\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Dec 18\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\Models\\ProductDbContext.cs",
+              "RelativeToolTip": "AnimePortraitDude\\Models\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:58:09.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Dec 18\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\appsettings.json",
+              "RelativeDocumentMoniker": "AnimePortraitDude\\appsettings.json",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Dec 18\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\appsettings.json",
+              "RelativeToolTip": "AnimePortraitDude\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T03:49:59.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Dec 18\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "AnimePortraitDude\\DbContextFactory.cs",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Dec 18\\Blazor.AnimePortraitDude\\AnimePortraitDude\\AnimePortraitDude\\DbContextFactory.cs",
+              "RelativeToolTip": "AnimePortraitDude\\DbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:49:59.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

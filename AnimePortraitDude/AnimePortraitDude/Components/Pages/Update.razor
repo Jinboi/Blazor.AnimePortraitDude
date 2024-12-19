@@ -1,53 +1,53 @@
-﻿@page "/update/{clubId:int}"
+﻿@page "/update/{productId:int}"
 @rendermode InteractiveServer
 @using AnimePortraitDude.Models
-@inject AnimePortraitDude.Services.IClubService ClubService
+@inject AnimePortraitDude.Services.IProductService ProductService
 @inject NavigationManager Navigation
 
-<h3>Update Club</h3>
+<h3>Update Product</h3>
 
-@if (club == null)
+@if (product == null)
 {
     <p><em>Loading...</em></p>
 }
 else
 {
     <div class="mb-3">
-        <label for="clubName" class="form-label">Club Name</label>
-        <input type="text" class="form-control" id="clubName" @bind="club.ClubName" />
+        <label for="productName" class="form-label">Product Name</label>
+        <input type="text" class="form-control" id="productName" @bind="product.ProductName" />
     </div>
     <div class="mb-3">
         <label for="country" class="form-label">Country</label>
-        <input type="text" class="form-control" id="country" @bind="club.Country" />
+        <input type="text" class="form-control" id="country" @bind="product.Country" />
     </div>
     <button class="btn btn-secondary" @onclick="Cancel">Cancel</button>
-    <button class="btn btn-primary" @onclick="UpdateClub">Save</button>
+    <button class="btn btn-primary" @onclick="UpdateProduct">Save</button>
 }
 
 @code {
     [Parameter]
-    public int clubId { get; set; }
+    public int productId { get; set; }
 
-    private Models.Club club;
+    private Models.Product product;
 
     protected override async Task OnInitializedAsync()
     {
-        // Load the club to be updated
-        club = await ClubService.GetClub(clubId);
+        // Load the product to be updated
+        product = await ProductService.GetProduct(productId);
     }
 
-    private async Task UpdateClub()
+    private async Task UpdateProduct()
     {
-        // Update the club using the service
-        await ClubService.UpdateClub(club);
+        // Update the product using the service
+        await ProductService.UpdateProduct(product);
 
-        // Redirect back to the club list page
-        Navigation.NavigateTo("/club");
+        // Redirect back to the product list page
+        Navigation.NavigateTo("/product");
     }
 
     private void Cancel()
     {
-        // Navigate back to the club list page
-        Navigation.NavigateTo("/club");
+        // Navigate back to the product list page
+        Navigation.NavigateTo("/product");
     }
 }
